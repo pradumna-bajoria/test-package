@@ -1,0 +1,15 @@
+{
+  "name": "test-package",
+  "version": "1.0.0",
+  "description": "A testing package.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "test",
+    "first"
+  ],
+  "author": "Pradumna Bajoria",
+  "license": "ISC"
+}
